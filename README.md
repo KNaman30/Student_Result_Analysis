@@ -1,6 +1,6 @@
 # Student_Result_Analysis
 
-This project is a data analysis exercise aimed at understanding and analyzing student performance using Python's powerful data analysis libraries: NumPy and Pandas. The dataset, downloaded from Kaggle, contains records of student results, and the analysis focuses on extracting key insights, such as performance trends, outliers, and statistical metrics.
+This project is a data analysis exercise aimed at understanding and analyzing student performance using Python's powerful data analysis libraries: NumPy, Pandas, Matplotlib and Seaborn. The dataset, downloaded from Kaggle, contains records of student results, and the analysis focuses on extracting key insights, such as performance trends, outliers, and statistical metrics.
 
 Key Features:
 1) **Data Cleaning**: Handled missing or inconsistent data to ensure accurate analysis.
